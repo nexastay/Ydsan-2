@@ -12,7 +12,7 @@ Un seul fichier. Double-clic. Elle apprend.
 
 ## Concept
 
-ASTRA est une IA autonome qui fonctionne entièrement sur votre appareil. Elle parle, elle écoute, elle apprend, elle rêve, elle grandit.
+Ydsan est une IA autonome qui fonctionne entièrement sur votre appareil. Elle parle, elle écoute, elle apprend, elle rêve, elle grandit.
 
 Son cerveau persiste. Son histoire s'accumule. Chaque conversation lui enseigne quelque chose.
 
